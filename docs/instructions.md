@@ -38,9 +38,29 @@ layout: tabbed-assignment
     
 </details>
 
-<p><details><summary>After watching the video, try to fix the bugs.</summary>
+<p><details><summary>After watching the video, try to fix the bugs. Use the hints if you get stuck.</summary>
 
 If you're stuck, use the hints below:
+
+<details>
+    <summary>Hints</summary>
+    
+    <details>
+    <summary>The plane is going backward</summary>
+    
+    </details>
+    
+    <details>
+    <summary></summary>
+    
+    </details>
+    
+    <details>
+    <summary></summary>
+    
+    </details>
+    
+</details>
 
 </details>
 
