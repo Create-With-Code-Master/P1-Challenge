@@ -1,8 +1,8 @@
 # Configuration that is shared between all of the pages in this assignment.
 #
 # Git stuff
-git-curr-branch: 
-get-prev-branch: 
+git-curr-branch: step-5
+get-prev-branch: step-4
 # Link to an external lesson (e.g., a lesson on Code.org or TestOut).
 lesson: 
 # If not empty, display the text at the top of the page (or wherever the template does the include of outcome.html)
