@@ -42,6 +42,21 @@ layout: tabbed-assignment
 
 If you're stuck, use the hints below:
 
+* The plane is going backward.
+
+   <details>
+    <summary>Hint</summary>
+    
+   </details>
+
+* The plane is going too fast
+
+* The plane is looping
+
+* The camera is in front of the plane
+
+* The camera is not following the plane
+
   <details>
     <summary>Hints</summary>
     
@@ -56,7 +71,7 @@ If you're stuck, use the hints below:
    </details>
     
    <details>
-    <summary>The plane is tilting without user input</summary>
+    <summary>The plane is looping</summary>
     
    </details>
     
