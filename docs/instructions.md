@@ -42,25 +42,35 @@ layout: tabbed-assignment
 
 If you're stuck, use the hints below:
 
-<details>
+  <details>
     <summary>Hints</summary>
     
-  <details>
+   <details>
     <summary>The plane is going backward</summary>
     
+   </details>
+    
+   <details>
+    <summary>The plane is going too fast</summary>
+    
+   </details>
+    
+   <details>
+    <summary>The plane is tilting without user input</summary>
+    
+   </details>
+    
+   <details>
+    <summary>The camera is in front of the plane</summary>
+    
+   </details>
+
+   <details>
+    <summary>The camera is not following the plane</summary>
+    
+   </details>
+   
   </details>
-    
-    <details>
-    <summary></summary>
-    
-    </details>
-    
-    <details>
-    <summary></summary>
-    
-    </details>
-    
-</details>
 
 </details>
 
