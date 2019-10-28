@@ -44,8 +44,12 @@ If you're stuck, use the hints below:
 
 * The plane is going backward.
 
+  Make the plane go forward.
+
    <details>
     <summary>Hint</summary>
+    
+    Vector3.back makes an object move backwards, Vector3.forward makes it go forwards
     
    </details>
 
