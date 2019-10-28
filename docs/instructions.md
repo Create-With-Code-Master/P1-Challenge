@@ -51,41 +51,31 @@ If you're stuck, use the hints below:
 
 * The plane is going too fast
 
-* The plane is looping
-
-* The camera is in front of the plane
-
-* The camera is not following the plane
-
-  <details>
-    <summary>Hints</summary>
-    
    <details>
-    <summary>The plane is going backward</summary>
-    
-   </details>
-    
-   <details>
-    <summary>The plane is going too fast</summary>
-    
-   </details>
-    
-   <details>
-    <summary>The plane is looping</summary>
-    
-   </details>
-    
-   <details>
-    <summary>The camera is in front of the plane</summary>
-    
-   </details>
-
-   <details>
-    <summary>The camera is not following the plane</summary>
+    <summary>Hint</summary>
     
    </details>
    
-  </details>
+* The plane is looping
+
+   <details>
+    <summary>Hint</summary>
+    
+   </details>
+
+* The camera is in front of the plane
+
+   <details>
+    <summary>Hint</summary>
+    
+   </details>
+
+* The camera is not following the plane
+
+   <details>
+    <summary>Hint</summary>
+    
+   </details>
 
 </details>
 
