@@ -23,28 +23,24 @@ layout: tabbed-assignment
 </details>
 
 <p><details><summary>Create and publish a {{site.data.assignment.git-curr-branch}} branch.</summary>
+    
+- When creating the branch, select the option to bring your changes forward from the **{{site.data.assignment.get-prev-branch}}** branch.
+- If you forget to do this your work on the **{{site.data.assignment.get-prev-branch}}** branch (and all of the branches before it) will vanish. To recover, delete the **{{site.data.assignment.git-curr-branch}}** and recreate it.
 
 </details>
 
-<p><details><summary>Go to the <a href="{{site.data.assignment.lesson}}">lesson</a> and get ready to take notes.</summary>
+<p><details><summary>Find the Challenge-1/Instructions video in the Assets folder. Watch the video to see how the game should work. Make notes about what you need to fix.</summary>
 
-- Get headphones if you need them.
-- Start a page for this lesson in your notebook with a title and date.
-- Review the learning targets to see what you should be focusing on.
-
-</details></p>
-
-<p><details><summary>Watch each video, taking notes on the new material.</summary>
-
-- Vocabulary
-- The Unity user interface
-- Implementing game mechanics.
+- Watch the video.
+- Attempt to play the game.
+- Make notes about the problems that you see in the game.
+- Pick the first problem that you will work on.
     
 </details>
 
-<p><details><summary>After watching each video, do the steps in Unity.</summary>
+<p><details><summary>After watching the video, try to fix the bugs.</summary>
 
-If necessary refer to your notes (update them if you find yourself stuck). You can use the abreviated steps below each video for cues on what to do.
+If you're stuck, use the hints below:
 
 </details>
 
