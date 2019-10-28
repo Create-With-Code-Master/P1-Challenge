@@ -45,10 +45,10 @@ If you're stuck, use the hints below:
 <details>
     <summary>Hints</summary>
     
-    <details>
+  <details>
     <summary>The plane is going backward</summary>
     
-    </details>
+  </details>
     
     <details>
     <summary></summary>
