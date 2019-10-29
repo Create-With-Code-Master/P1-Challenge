@@ -43,16 +43,23 @@ This mill add a **Challenge 1** folder to your **Assets** folder. The **Challeng
 
 </details>
 
-<p><details><summary>Find the Challenge-1/Instructions video in the Assets folder. Watch the video to see how the game should work. Make notes about what you need to fix.</summary>
+<p><details><summary>In the <b>Challenge 1</b> folder, find the **Challenge 1** scene file and open it (double-click on it) and explore the game.</summary>
+
+- Look over the Hierarchy and the assets in the **Challenge 1** folder.
+- Check out the **Game view**.
+- Try to play the game.
+    
+</details>
+
+<p><details><summary>In the Challenge-1/Instructions folder find the **Challenge 1 - Outcome** video. Study the video and the game to see what you will need to fix.</summary>
 
 - Watch the video.
-- Attempt to play the game.
 - Make notes about the problems that you see in the game.
 - Pick the first problem that you will work on.
     
 </details>
 
-<p><details><summary>After watching the video, try to fix the bugs. Use the hints if you get stuck.</summary>
+<p><details><summary>After watching the video, try to fix the bugs. Use the hints below if you get stuck.</summary>
 
 If you're stuck, use the hints below:
 
@@ -72,12 +79,20 @@ If you're stuck, use the hints below:
    <details>
     <summary>Hint</summary>
     
+    Slow the plane down to a managable speed.
+    
+    If you multiply a value by ```Time.deltaTime```, it will change it from 1x/frame to 1x/second.
+    
    </details>
    
 * The plane is looping
 
    <details>
     <summary>Hint</summary>
+    
+    Make the plane climb or dive only if the user presses the up/down arrows
+    
+    In **PlayerControllerX.cs**, in ```Update()```, the ```verticalInput``` value is assigned, but it’s never actually used in the ```Rotate()``` call.
     
    </details>
 
