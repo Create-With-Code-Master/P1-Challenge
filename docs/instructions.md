@@ -43,7 +43,7 @@ This mill add a **Challenge 1** folder to your **Assets** folder. The **Challeng
 
 </details>
 
-<p><details><summary>In the <b>Challenge 1</b> folder, find the **Challenge 1** scene file and open it (double-click on it) and explore the game.</summary>
+<p><details><summary>In the <b>Challenge 1</b> folder, find the <b>Challenge 1</b> scene file and open it (double-click on it) and explore the game.</summary>
 
 - Look over the Hierarchy and the assets in the **Challenge 1** folder.
 - Check out the **Game view**.
