@@ -29,6 +29,14 @@ layout: tabbed-assignment
 
 </details>
 
+<p><details><summary>Merge the <b>challenge</b> branch into your <b>{{site.data.assignment.git-curr-branch}}</b> branch.</summary>
+
+1. Go to **GitHub Desktop.**
+
+- This adds a **Challenge 1** folder to your **Assets** folder.
+
+</details>
+
 <p><details><summary>Find the Challenge-1/Instructions video in the Assets folder. Watch the video to see how the game should work. Make notes about what you need to fix.</summary>
 
 - Watch the video.
