@@ -51,7 +51,7 @@ This mill add a **Challenge 1** folder to your **Assets** folder. The **Challeng
     
 </details>
 
-<p><details><summary>In the Challenge-1/Instructions folder find the **Challenge 1 - Outcome** video. Study the video and the game to see what you will need to fix.</summary>
+<p><details><summary>In the <b>Challenge-1/Instructions</b> folder find the <b>Challenge 1 - Outcome</b> video. Study the video and the game to see what you will need to fix.</summary>
 
 - Watch the video.
 - Make notes about the problems that you see in the game.
