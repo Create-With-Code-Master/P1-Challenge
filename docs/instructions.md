@@ -29,11 +29,17 @@ layout: tabbed-assignment
 
 </details>
 
-<p><details><summary>Merge the <b>challenge</b> branch into your <b>{{site.data.assignment.git-curr-branch}}</b> branch.</summary>
+<p><details><summary>Merge the <b>origin/challenge</b> branch into your <b>{{site.data.assignment.git-curr-branch}}</b> branch.</summary>
 
-1. Go to **GitHub Desktop.**
+In **GitHub Desktop:**
 
-- This adds a **Challenge 1** folder to your **Assets** folder.
+1. Make sure your **step-5** branch is selected.
+1. Click on the down-arrow next to **step-5**.
+1. At the bottom of the panel, click on the **Choose a branch to merge into {{site.data.assignment.git-curr-branch}}** button
+1. Under **Other branches** choose **origin/challenge**.
+1. Click on the **Merge origin/challenge into step-5** button.
+
+This mill add a **Challenge 1** folder to your **Assets** folder. The **Challenge 1** folder holds the assets you will use for this assignment. You can also use your work on Prototype 1 for reference.
 
 </details>
 
