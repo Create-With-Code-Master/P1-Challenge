@@ -4,7 +4,7 @@
 git-curr-branch: step-5
 get-prev-branch: step-4
 # Link to an external lesson (e.g., a lesson on Code.org or TestOut).
-lesson: 
+lesson: https://learn.unity.com/tutorial/challenge-1-steer-a-plane-through-obstacles-in-the-sky?courseId=5cf96c41edbc2a2ca6e8810f&projectId=5caccdfbedbc2a3cef0efe63
 # If not empty, display the text at the top of the page (or wherever the template does the include of outcome.html)
 # below the tabs
 outcome:
