@@ -17,5 +17,6 @@ layout: tabbed-assignment
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
 [lesson]: <{{site.data.assignment.lesson}}>
+[template]: <{{site.data.assignment.template}}>
+
 [slides]: <{{site.data.assignment.slides}}>
-[template]: {{site.data.assignment.template}}
