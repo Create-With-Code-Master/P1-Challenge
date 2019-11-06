@@ -2,12 +2,6 @@
 layout: tabbed-assignment
 ---
 
-<!-- Don't edit links here, change them in _data/assignment.yml instead. -->
-
-[lesson]: <{{site.data.assignment.lesson}}>
-[slides]: <{{site.data.assignment.slides}}>
-[template]: <{{site.data.assignment.template}}>
-
 # Instructions
 
 {% include time-estimate.html %}
@@ -117,3 +111,10 @@ If you're stuck, use the hints below:
 When you're done for the day, go to the submission tab, check the instructions, and submit.
 
 </details>
+
+
+<!-- Don't edit links here, change them in _data/assignment.yml instead. -->
+
+{% if site.data.assignment.slides   %}[lesson]:   <{{site.data.assignment.lesson}}>   {% endif %}
+{% if site.data.assignment.slides   %}[slides]:   <{{site.data.assignment.slides}}>   {% endif %}
+{% if site.data.assignment.template %}[template]: <{{site.data.assignment.template}}> {% endif %}
