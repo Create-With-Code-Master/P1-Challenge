@@ -5,7 +5,7 @@ layout: tabbed-assignment
 # Resources
 
 {% if site.data.assignment.slides %}
-* [Presentation Slides][slides]
+* [Presentation Slides]({{site.data.assignment.slides}})
 {% endif %}
 {% if site.data.assignment.lesson %}
 * [Lesson][]
@@ -18,5 +18,3 @@ layout: tabbed-assignment
 
 [lesson]: <{{site.data.assignment.lesson}}>
 [template]: <{{site.data.assignment.template}}>
-
-[slides]: <{{site.data.assignment.slides}}>
