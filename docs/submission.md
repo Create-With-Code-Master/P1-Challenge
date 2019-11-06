@@ -10,7 +10,7 @@ At the end of class:
 
 <b>If you are still working on the lesson:</b>
 
-1. Submit a link to the **{{site.data.assignment.git-current-branch}}** branch of your **{{site.data.assignment.starter-code-repo}}** repository on GitHub.
+1. Submit a link to the **{{site.data.assignment.git-curr-branch}}** branch of your **{{site.data.assignment.starter-code-repo}}** repository on GitHub.
 1. Leave a brief comment explaining:
    - The step you were working on at the end of the block.
    - Where you got stuck or bogged down.
