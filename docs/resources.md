@@ -18,4 +18,4 @@ layout: tabbed-assignment
 
 [lesson]: <{{site.data.assignment.lesson}}>
 [slides]: <{{site.data.assignment.slides}}>
-[template]: <{{site.data.assignment.template}}>
+[template]: {{site.data.assignment.template}}
