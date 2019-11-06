@@ -8,13 +8,8 @@ layout: tabbed-assignment
 * [Presentation Slides]({{site.data.assignment.slides}})
 {% endif %}
 {% if site.data.assignment.lesson %}
-* [Lesson][]
+* [Lesson]({{site.data.assignment.lesson}})
 {% endif %}
 {% if site.data.assignment.template %}
-* [Submission Template][template]
+* [Submission Template]({{site.data.assignment.template}})
 {% endif %}
-
-<!-- Don't edit links here, change them in _data/assignment.yml instead, -->
-
-[lesson]: <{{site.data.assignment.lesson}}>
-[template]: <{{site.data.assignment.template}}>
